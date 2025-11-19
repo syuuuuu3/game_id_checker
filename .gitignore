@@ -1,0 +1,9 @@
+# Everything except data/ directory
+*
+!.gitignore
+!data/
+!data/**
+
+# But ignore these inside data/
+data/__pycache__/
+data/*.log
