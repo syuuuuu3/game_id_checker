@@ -1,21 +1,25 @@
 {
-  "last_updated": "2025-11-22T23:03:33.801195",
+  "last_updated": "2025-11-23T00:09:30.618492",
   "games": [
     {
       "rj_id": "RJ01234887",
       "otomi_id": "OHQP33WHK"
     },
     {
-      "rj_id": "RJ01397058",
-      "otomi_id": "SNAXM3QR7"
+      "rj_id": "RJ01364649",
+      "otomi_id": "DYZ87JQ5T"
     },
     {
-      "rj_id": "RJ01456434",
-      "otomi_id": "Q4Q3G1OCI"
+      "rj_id": "RJ01476254",
+      "otomi_id": "OI3LGLXOQ"
     },
     {
-      "rj_id": "RJ01485148",
-      "otomi_id": "E5ZIWMZ1E"
+      "rj_id": "RJ01482469",
+      "otomi_id": "G9LSY1SYT"
+    },
+    {
+      "rj_id": "RJ01487243",
+      "otomi_id": null
     },
     {
       "rj_id": "RJ01508794",
@@ -24,9 +28,10 @@
   ],
   "local_ids": [
     "RJ01234887",
-    "RJ01397058",
-    "RJ01456434",
-    "RJ01485148",
+    "RJ01364649",
+    "RJ01476254",
+    "RJ01482469",
+    "RJ01487243",
     "RJ01508794"
   ]
 }
