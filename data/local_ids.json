@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-11-20T06:27:05.163211",
+  "last_updated": "2025-11-22T19:01:42.310894",
   "local_ids": [
-    "RJ01501200"
+    "RJ01482469",
+    "RJ01487243",
+    "RJ01508794"
   ],
   "local_details": {
-    "RJ01501200": [
-      "C:\\Users\\syuuu\\Downloads\\G-RJ01501200.zip"
+    "RJ01482469": [
+      "C:\\Users\\syuuu\\Downloads\\G-RJ01482469.part1.rar",
+      "C:\\Users\\syuuu\\Downloads\\G-RJ01482469.part2.rar"
+    ],
+    "RJ01487243": [
+      "C:\\Users\\syuuu\\Downloads\\G-RJ01487243.part1.rar",
+      "C:\\Users\\syuuu\\Downloads\\G-RJ01487243.part2.rar",
+      "C:\\Users\\syuuu\\Downloads\\G-RJ01487243.part3.rar",
+      "C:\\Users\\syuuu\\Downloads\\G-RJ01487243.part4.rar"
+    ],
+    "RJ01508794": [
+      "C:\\Users\\syuuu\\Downloads\\G-RJ01508794.zip"
     ]
   }
 }
