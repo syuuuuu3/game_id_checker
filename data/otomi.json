@@ -1,32 +1,82 @@
 {
-  "last_updated": "2025-11-23T23:31:15.349929",
+  "last_updated": "2025-12-05T01:19:53.970702",
   "games": [
     {
-      "rj_id": "RJ01278926",
-      "otomi_id": "D4TWD8S8X"
+      "rj_id": "RJ01317573",
+      "otomi_id": "UADR5DFM3"
     },
     {
-      "rj_id": "RJ01481895",
-      "otomi_id": "C6RGJICHR"
+      "rj_id": "RJ01376315",
+      "otomi_id": "MROBSDCHN"
     },
     {
-      "rj_id": "RJ01482469",
-      "otomi_id": "G9LSY1SYT"
+      "rj_id": "RJ01402070",
+      "otomi_id": "P8BIPC5HR"
     },
     {
-      "rj_id": "RJ01487243",
-      "otomi_id": null
+      "rj_id": "RJ01437470",
+      "otomi_id": "XGH04IJ99"
     },
     {
-      "rj_id": "RJ01508794",
-      "otomi_id": "J3H9MNUVL"
+      "rj_id": "RJ01453643",
+      "otomi_id": "MIGBNN6T8"
+    },
+    {
+      "rj_id": "RJ01461468",
+      "otomi_id": "LQE97LRC4"
+    },
+    {
+      "rj_id": "RJ01467184",
+      "otomi_id": "PTB2FFSTH"
+    },
+    {
+      "rj_id": "RJ01482684",
+      "otomi_id": "3RDBFNXME"
+    },
+    {
+      "rj_id": "RJ01490597",
+      "otomi_id": "I95WCNK7G"
+    },
+    {
+      "rj_id": "RJ01497907",
+      "otomi_id": "2FBVQ4478"
+    },
+    {
+      "rj_id": "RJ01507457",
+      "otomi_id": "0KXEXKIPZ"
+    },
+    {
+      "rj_id": "RJ01510197",
+      "otomi_id": "36SMU69N6"
+    },
+    {
+      "rj_id": "RJ01511868",
+      "otomi_id": "T0Q4C2BC7"
+    },
+    {
+      "rj_id": "RJ01514012",
+      "otomi_id": "7HNUU9MVI"
+    },
+    {
+      "rj_id": "RJ01516307",
+      "otomi_id": "VJ2SNMZ3Z"
     }
   ],
   "local_ids": [
-    "RJ01278926",
-    "RJ01481895",
-    "RJ01482469",
-    "RJ01487243",
-    "RJ01508794"
+    "RJ01317573",
+    "RJ01376315",
+    "RJ01402070",
+    "RJ01437470",
+    "RJ01453643",
+    "RJ01461468",
+    "RJ01467184",
+    "RJ01482684",
+    "RJ01490597",
+    "RJ01497907",
+    "RJ01507457",
+    "RJ01510197",
+    "RJ01511868",
+    "RJ01514012",
+    "RJ01516307"
   ]
 }
