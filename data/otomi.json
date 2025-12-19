@@ -1,5 +1,62 @@
 {
-  "last_updated": "2025-12-10T18:10:05.939560",
-  "games": [],
-  "local_ids": []
+  "last_updated": "2025-12-19T21:45:46.944560",
+  "games": [
+    {
+      "rj_id": "RJ01366739",
+      "otomi_id": "43HB46K09"
+    },
+    {
+      "rj_id": "RJ01484794",
+      "otomi_id": "MW7CNQ3LQ"
+    },
+    {
+      "rj_id": "RJ01492799",
+      "otomi_id": "P21L60UIM"
+    },
+    {
+      "rj_id": "RJ01496404",
+      "otomi_id": "06804NH9D"
+    },
+    {
+      "rj_id": "RJ01496967",
+      "otomi_id": "XLBSJIM4F"
+    },
+    {
+      "rj_id": "RJ01517893",
+      "otomi_id": "0VNCYHDM5"
+    },
+    {
+      "rj_id": "RJ01519705",
+      "otomi_id": "IL27QIDMZ"
+    },
+    {
+      "rj_id": "RJ01520131",
+      "otomi_id": "9Z58SP7QA"
+    },
+    {
+      "rj_id": "RJ01521505",
+      "otomi_id": "SXQRTRMH3"
+    },
+    {
+      "rj_id": "RJ01522194",
+      "otomi_id": "H7XINE350"
+    },
+    {
+      "rj_id": "RJ01522618",
+      "otomi_id": "71GUMP4IO"
+    }
+  ],
+  "local_ids": [
+    "RJ01366739",
+    "RJ01484794",
+    "RJ01492799",
+    "RJ01496404",
+    "RJ01496967",
+    "RJ01517893",
+    "RJ01519705",
+    "RJ01520131",
+    "RJ01521505",
+    "RJ01522194",
+    "RJ01522618"
+  ]
 }
