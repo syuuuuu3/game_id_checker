@@ -1,117 +1,65 @@
 {
-  "last_updated": "2026-03-28T23:10:25.318212",
+  "last_updated": "2026-03-30T01:40:02.590917",
   "games": [
     {
-      "rj_id": "RJ01366739",
-      "otomi_id": "43HB46K09"
+      "rj_id": "RJ01035443",
+      "otomi_id": "SCB0BJTK2"
     },
     {
-      "rj_id": "RJ01412576",
-      "otomi_id": "6VPB0TCBM"
+      "rj_id": "RJ01264534",
+      "otomi_id": "62SVEFJZC"
     },
     {
-      "rj_id": "RJ01419623",
-      "otomi_id": "C74FAVQHI"
+      "rj_id": "RJ01330583",
+      "otomi_id": "ZMSYACT2F"
     },
     {
-      "rj_id": "RJ01475962",
-      "otomi_id": "YM6KP67TL"
+      "rj_id": "RJ01405134",
+      "otomi_id": "IN05CG2WT"
     },
     {
-      "rj_id": "RJ01484794",
-      "otomi_id": "MW7CNQ3LQ"
+      "rj_id": "RJ01480549",
+      "otomi_id": "HZXZZYCCZ"
     },
     {
-      "rj_id": "RJ01490381",
-      "otomi_id": "IY27AVQDD"
-    },
-    {
-      "rj_id": "RJ01492799",
-      "otomi_id": "P21L60UIM"
-    },
-    {
-      "rj_id": "RJ01496404",
-      "otomi_id": "06804NH9D"
-    },
-    {
-      "rj_id": "RJ01496967",
-      "otomi_id": "XLBSJIM4F"
+      "rj_id": "RJ01492305",
+      "otomi_id": "KM90UN5XZ"
     },
     {
       "rj_id": "RJ01513584",
       "otomi_id": "LDW9VTOS0"
     },
     {
-      "rj_id": "RJ01517893",
-      "otomi_id": "0VNCYHDM5"
-    },
-    {
-      "rj_id": "RJ01519705",
-      "otomi_id": "IL27QIDMZ"
-    },
-    {
-      "rj_id": "RJ01520131",
-      "otomi_id": "9Z58SP7QA"
-    },
-    {
-      "rj_id": "RJ01521259",
-      "otomi_id": "SH2G0D91L"
-    },
-    {
-      "rj_id": "RJ01521505",
-      "otomi_id": "SXQRTRMH3"
-    },
-    {
-      "rj_id": "RJ01522194",
-      "otomi_id": "H7XINE350"
-    },
-    {
-      "rj_id": "RJ01522618",
-      "otomi_id": "71GUMP4IO"
+      "rj_id": "RJ01515755",
+      "otomi_id": "UU8ASGLZW"
     },
     {
       "rj_id": "RJ01525804",
       "otomi_id": "TCZ4U4PST"
     },
     {
+      "rj_id": "RJ01533435",
+      "otomi_id": "T2ME7FCOE"
+    },
+    {
       "rj_id": "RJ01535497",
       "otomi_id": "NQ2WZNAQB"
     },
     {
-      "rj_id": "RJ01543289",
-      "otomi_id": "BG7KLC0Z5"
-    },
-    {
-      "rj_id": "RJ01543578",
-      "otomi_id": "M8LZQVFNF"
-    },
-    {
-      "rj_id": "RJ01543998",
-      "otomi_id": "MYY922WF8"
-    },
-    {
-      "rj_id": "RJ01547228",
-      "otomi_id": "OBCOMHHVI"
-    },
-    {
-      "rj_id": "RJ01547278",
-      "otomi_id": "XV9571H3Z"
-    },
-    {
-      "rj_id": "RJ01547857",
-      "otomi_id": "7SHED65EP"
-    },
-    {
-      "rj_id": "RJ01548152",
-      "otomi_id": "WTUR1ARIZ"
-    },
-    {
-      "rj_id": "RJ01549112",
-      "otomi_id": "5BHFXGA34"
-    },
-    {
       "rj_id": "RJ01557682",
       "otomi_id": "D7SIO8OYM"
+    },
+    {
+      "rj_id": "RJ01570490",
+      "otomi_id": "6Z0YB9PRU"
+    },
+    {
+      "rj_id": "RJ01572594",
+      "otomi_id": "VBUVHMWI8"
+    },
+    {
+      "rj_id": "RJ01575130",
+      "otomi_id": "VPW9RS9WE"
     },
     {
       "rj_id": "RJ01575955",
@@ -120,38 +68,50 @@
     {
       "rj_id": "RJ01576623",
       "otomi_id": "X7LL85HFW"
+    },
+    {
+      "rj_id": "RJ01581908",
+      "otomi_id": "15C75HTWY"
+    },
+    {
+      "rj_id": "RJ01585884",
+      "otomi_id": "H71LYL0K3"
+    },
+    {
+      "rj_id": "RJ01585999",
+      "otomi_id": "A7HRZKXTL"
+    },
+    {
+      "rj_id": "RJ01590355",
+      "otomi_id": "I2U7ZW2WG"
+    },
+    {
+      "rj_id": "RJ01591481",
+      "otomi_id": "M0KUHNI36"
     }
   ],
   "local_ids": [
-    "RJ01366739",
-    "RJ01412576",
-    "RJ01419623",
-    "RJ01475962",
-    "RJ01484794",
-    "RJ01490381",
-    "RJ01492799",
-    "RJ01496404",
-    "RJ01496967",
+    "RJ01035443",
+    "RJ01264534",
+    "RJ01330583",
+    "RJ01405134",
+    "RJ01480549",
+    "RJ01492305",
     "RJ01513584",
-    "RJ01517893",
-    "RJ01519705",
-    "RJ01520131",
-    "RJ01521259",
-    "RJ01521505",
-    "RJ01522194",
-    "RJ01522618",
+    "RJ01515755",
     "RJ01525804",
+    "RJ01533435",
     "RJ01535497",
-    "RJ01543289",
-    "RJ01543578",
-    "RJ01543998",
-    "RJ01547228",
-    "RJ01547278",
-    "RJ01547857",
-    "RJ01548152",
-    "RJ01549112",
     "RJ01557682",
+    "RJ01570490",
+    "RJ01572594",
+    "RJ01575130",
     "RJ01575955",
-    "RJ01576623"
+    "RJ01576623",
+    "RJ01581908",
+    "RJ01585884",
+    "RJ01585999",
+    "RJ01590355",
+    "RJ01591481"
   ]
 }
