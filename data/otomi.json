@@ -1,5 +1,27 @@
 {
-  "last_updated": "2026-04-04T03:59:59.861617",
-  "games": [],
-  "local_ids": []
+  "last_updated": "2026-04-05T21:56:46.329447",
+  "games": [
+    {
+      "rj_id": "RJ01052977",
+      "otomi_id": "P9ZA9U1K9"
+    },
+    {
+      "rj_id": "RJ01530415",
+      "otomi_id": "2QX9RBAY4"
+    },
+    {
+      "rj_id": "RJ01552465",
+      "otomi_id": "M7GP99ZR8"
+    },
+    {
+      "rj_id": "RJ01575170",
+      "otomi_id": null
+    }
+  ],
+  "local_ids": [
+    "RJ01052977",
+    "RJ01530415",
+    "RJ01552465",
+    "RJ01575170"
+  ]
 }
